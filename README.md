@@ -4,7 +4,6 @@ A repo of possible scripts for CaryKH's Prisoners Dilemma tournament in which ut
 All of these scripts use fine decisionmaking based on the player's last move. While Drowzee and realisticDrowzee implement a bit of randomness, impulsiveDrowzee and immediateDrowzee make immediate decisions based only on past moves by the other player.
 
 # Each file's use
-| :------------ |:---------------:|
 Name  | Use
 | :------------ |:---------------:|
 Drowzee  | Starts off with copying the player's move. Slowly averages and randomizes based on it.
