@@ -5,7 +5,7 @@ All of these scripts use fine decisionmaking based on the player's last move. Wh
 
 # Each file's use
 Name  | Use
-------------- | -------------
+| :------------ |:---------------:|
 Drowzee  | Starts off with copying the player's move. Slowly averages and randomizes based on it.
 realisticDrowzee  | Starts off at total randomness and builds off from there based on player decisions.
 immediateDrowzee | Starts off at 0.5. As rounds go, if the weight is higher than 0.5, it is immediately a cooperate and vice versa.
